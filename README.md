@@ -1,6 +1,4 @@
 # Analisis-de-Sueldos-con-Phyton-SysArmy2021
-Proyecto final para desarrollador con Python del curso Análisis de Datos de SenpaiAcademy.
-
 
 ## ¿Qué son las encuestas de SysArmy?
 Las encuestas de Sysarmy son realizadas a la comunidad del sector IT de Latinoarmérica y con sus variadas preguntas permiten generar una idea del estado de esa industria en el momento.
